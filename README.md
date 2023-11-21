@@ -15,5 +15,4 @@
 - Контент: ![Контент](https://github.com/Gravitana/GB-DevProgSpec-1-web-tech-01/blob/main/content.png)
 3. Изменения: ![Изменения](https://github.com/Gravitana/GB-DevProgSpec-1-web-tech-01/blob/main/changes.png)
 4. Прототип: ![Прототип](https://github.com/Gravitana/GB-DevProgSpec-1-web-tech-01/blob/main/prototype.png)
-  
-
+5. Есть регистрация на Beget
