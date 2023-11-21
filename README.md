@@ -9,6 +9,6 @@
 
 *Решение:*
 1. Сайт работает на защищённом протоколе https
-2. ![Хидер](https://github.com/Gravitana/GB-DevProgSpec-1-web-tech-01/blob/main/header.png)
-3. ![Футер](https://github.com/Gravitana/GB-DevProgSpec-1-web-tech-01/blob/main/footer.png)
-4. ![Контент](https://github.com/Gravitana/GB-DevProgSpec-1-web-tech-01/blob/main/content.png)
+2. Хидер: ![Хидер](https://github.com/Gravitana/GB-DevProgSpec-1-web-tech-01/blob/main/header.png)
+3. Футер: ![Футер](https://github.com/Gravitana/GB-DevProgSpec-1-web-tech-01/blob/main/footer.png)
+4. Контент: ![Контент](https://github.com/Gravitana/GB-DevProgSpec-1-web-tech-01/blob/main/content.png)
